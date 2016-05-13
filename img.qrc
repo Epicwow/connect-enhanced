@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>img/longquan.png</file>
+        <file>img/edit.png</file>
+        <file>img/excel.png</file>
+        <file>img/list.png</file>
+        <file>img/ok.png</file>
+        <file>img/sure.png</file>
+        <file>img/wireless.png</file>
+        <file>img/search.png</file>
+        <file>img/setting.png</file>
+        <file>img/cdb.png</file>
+        <file>img/check.png</file>
+        <file>img/compose.png</file>
+        <file>img/config.png</file>
+        <file>img/downloadit.png</file>
+        <file>img/else.png</file>
+        <file>img/query2.png</file>
+        <file>img/sql.png</file>
+        <file>img/group.png</file>
+        <file>img/data-delete.png</file>
+        <file>img/undo.png</file>
+        <file>img/id-card.png</file>
+        <file>img/phone.png</file>
+        <file>img/profile.png</file>
+    </qresource>
+</RCC>
